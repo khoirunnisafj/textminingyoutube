@@ -1,0 +1,710 @@
+{
+	"kateglo": {
+		"phrase": "adil",
+		"phrase_type": "r",
+		"lex_class": "adj",
+		"roget_class": null,
+		"pronounciation": null,
+		"etymology": null,
+		"ref_source": "KBBI3",
+		"def_count": "3",
+		"actual_phrase": null,
+		"info": null,
+		"notes": null,
+		"updated": "2009-06-10 05:03:32",
+		"updater": null,
+		"created": "2009-06-10 05:03:32",
+		"creator": null,
+		"proverb_updated": null,
+		"wikipedia_updated": null,
+		"kbbi_updated": "2009-06-10 05:03:32",
+		"lex_class_name": "Adjektiva",
+		"roget_name": null,
+		"ref_source_name": "KBBI III",
+		"lex_class_ref": "adjektiva",
+		"root": [],
+		"definition": [{
+			"def_uid": "165677",
+			"phrase": "adil",
+			"def_num": "1",
+			"lex_class": null,
+			"def_text": "sama berat; tidak berat sebelah; tidak memihak",
+			"discipline": null,
+			"sample": "keputusan hakim itu --",
+			"see": null,
+			"updated": null,
+			"updater": null,
+			"wikipedia_updated": null,
+			"lex_class_ref": null
+		}, {
+			"def_uid": "165678",
+			"phrase": "adil",
+			"def_num": "2",
+			"lex_class": null,
+			"def_text": "berpihak kepada yang benar; berpegang pada kebenaran",
+			"discipline": null,
+			"sample": null,
+			"see": null,
+			"updated": null,
+			"updater": null,
+			"wikipedia_updated": null,
+			"lex_class_ref": null
+		}, {
+			"def_uid": "165679",
+			"phrase": "adil",
+			"def_num": "3",
+			"lex_class": null,
+			"def_text": "sepatutnya; tidak sewenang-wenang",
+			"discipline": null,
+			"sample": "para buruh mengemukakan tuntutan yang --",
+			"see": null,
+			"updated": null,
+			"updater": null,
+			"wikipedia_updated": null,
+			"lex_class_ref": null
+		}],
+		"reference": [],
+		"proverbs": [],
+		"translations": [{
+			"lemma": "adil",
+			"ref_source": "ebsoft",
+			"translation": "1 just, fair, equitable. 2 legal."
+		}, {
+			"lemma": "adil",
+			"ref_source": "gkamus",
+			"translation": "1 just, fair, equitable. 2 legal."
+		}],
+		"relation": {
+			"relation_direct": 32,
+			"relation_reverse": 0,
+			"s": {
+				"0": {
+					"rel_uid": "209323",
+					"root_phrase": "adil",
+					"related_phrase": "benar",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adj"
+				},
+				"1": {
+					"rel_uid": "209324",
+					"root_phrase": "adil",
+					"related_phrase": "betul",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adj"
+				},
+				"2": {
+					"rel_uid": "209325",
+					"root_phrase": "adil",
+					"related_phrase": "jujur",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adj"
+				},
+				"3": {
+					"rel_uid": "209326",
+					"root_phrase": "adil",
+					"related_phrase": "lurus",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adj"
+				},
+				"4": {
+					"rel_uid": "209327",
+					"root_phrase": "adil",
+					"related_phrase": "merata",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "v"
+				},
+				"5": {
+					"rel_uid": "209328",
+					"root_phrase": "adil",
+					"related_phrase": "rata",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adj"
+				},
+				"6": {
+					"rel_uid": "209331",
+					"root_phrase": "adil",
+					"related_phrase": "saksama",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adj"
+				},
+				"7": {
+					"rel_uid": "209329",
+					"root_phrase": "adil",
+					"related_phrase": "sebanding",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "n"
+				},
+				"8": {
+					"rel_uid": "209330",
+					"root_phrase": "adil",
+					"related_phrase": "seimbang",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adj"
+				},
+				"9": {
+					"rel_uid": "209332",
+					"root_phrase": "adil",
+					"related_phrase": "selayaknya",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adv"
+				},
+				"10": {
+					"rel_uid": "209333",
+					"root_phrase": "adil",
+					"related_phrase": "sepantasnya",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adv"
+				},
+				"11": {
+					"rel_uid": "141056",
+					"root_phrase": "adil",
+					"related_phrase": "sepatutnya",
+					"rel_type": "s",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Sinonim",
+					"lex_class": "adv"
+				},
+				"12": {
+					"rel_uid": "209334",
+					"root_phrase": "adil",
+					"related_phrase": "setara",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "n"
+				},
+				"13": {
+					"rel_uid": "209335",
+					"root_phrase": "adil",
+					"related_phrase": "setimbal",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adj"
+				},
+				"14": {
+					"rel_uid": "209336",
+					"root_phrase": "adil",
+					"related_phrase": "setimpal",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adj"
+				},
+				"15": {
+					"rel_uid": "203233",
+					"root_phrase": "adil",
+					"related_phrase": "sewajarnya",
+					"rel_type": "s",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Sinonim",
+					"lex_class": "adv"
+				},
+				"name": "Sinonim"
+			},
+			"a": {
+				"0": {
+					"rel_uid": "209337",
+					"root_phrase": "adil",
+					"related_phrase": "berat sebelah",
+					"rel_type": "a",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Antonim",
+					"lex_class": "adj"
+				},
+				"1": {
+					"rel_uid": "203232",
+					"root_phrase": "adil",
+					"related_phrase": "timpang",
+					"rel_type": "a",
+					"updated": null,
+					"updater": "TESAURUS",
+					"rel_type_name": "Antonim",
+					"lex_class": "adj"
+				},
+				"name": "Antonim"
+			},
+			"r": {
+				"name": "Berkaitan"
+			},
+			"d": {
+				"0": {
+					"rel_uid": "141071",
+					"root_phrase": "adil",
+					"related_phrase": "berkeadilan",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "v"
+				},
+				"1": {
+					"rel_uid": "141069",
+					"root_phrase": "adil",
+					"related_phrase": "keadilan",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "n"
+				},
+				"2": {
+					"rel_uid": "141070",
+					"root_phrase": "adil",
+					"related_phrase": "keadilan sosial",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "n"
+				},
+				"3": {
+					"rel_uid": "141057",
+					"root_phrase": "adil",
+					"related_phrase": "mengadili",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "v"
+				},
+				"4": {
+					"rel_uid": "141061",
+					"root_phrase": "adil",
+					"related_phrase": "pengadil",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "n"
+				},
+				"5": {
+					"rel_uid": "141063",
+					"root_phrase": "adil",
+					"related_phrase": "pengadilan",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "n"
+				},
+				"6": {
+					"rel_uid": "141065",
+					"root_phrase": "adil",
+					"related_phrase": "pengadilan agama",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "n"
+				},
+				"7": {
+					"rel_uid": "141066",
+					"root_phrase": "adil",
+					"related_phrase": "pengadilan militer",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "n"
+				},
+				"8": {
+					"rel_uid": "141067",
+					"root_phrase": "adil",
+					"related_phrase": "pengadilan negeri",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "n"
+				},
+				"9": {
+					"rel_uid": "141068",
+					"root_phrase": "adil",
+					"related_phrase": "pengadilan tinggi",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "n"
+				},
+				"10": {
+					"rel_uid": "141060",
+					"root_phrase": "adil",
+					"related_phrase": "peradilan",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "n"
+				},
+				"11": {
+					"rel_uid": "141058",
+					"root_phrase": "adil",
+					"related_phrase": "teradil",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "adj"
+				},
+				"12": {
+					"rel_uid": "141059",
+					"root_phrase": "adil",
+					"related_phrase": "teradili",
+					"rel_type": "d",
+					"updated": null,
+					"updater": null,
+					"rel_type_name": "Turunan",
+					"lex_class": "v"
+				},
+				"name": "Turunan"
+			},
+			"c": {
+				"0": {
+					"rel_uid": "247004",
+					"root_phrase": "adil",
+					"related_phrase": "ratu adil",
+					"rel_type": "c",
+					"updated": "2010-03-11 19:44:45",
+					"updater": "rooter",
+					"rel_type_name": "Gabungan kata",
+					"lex_class": "n"
+				},
+				"name": "Gabungan kata"
+			},
+			"pb": {
+				"name": "Peribahasa"
+			},
+			"relation_all": 32
+		},
+		"all_relation": [{
+			"rel_uid": "209323",
+			"root_phrase": "adil",
+			"related_phrase": "benar",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "209324",
+			"root_phrase": "adil",
+			"related_phrase": "betul",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "209325",
+			"root_phrase": "adil",
+			"related_phrase": "jujur",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "209326",
+			"root_phrase": "adil",
+			"related_phrase": "lurus",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "209327",
+			"root_phrase": "adil",
+			"related_phrase": "merata",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "v"
+		}, {
+			"rel_uid": "209328",
+			"root_phrase": "adil",
+			"related_phrase": "rata",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "209331",
+			"root_phrase": "adil",
+			"related_phrase": "saksama",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "209329",
+			"root_phrase": "adil",
+			"related_phrase": "sebanding",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "209330",
+			"root_phrase": "adil",
+			"related_phrase": "seimbang",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "209332",
+			"root_phrase": "adil",
+			"related_phrase": "selayaknya",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adv"
+		}, {
+			"rel_uid": "209333",
+			"root_phrase": "adil",
+			"related_phrase": "sepantasnya",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adv"
+		}, {
+			"rel_uid": "141056",
+			"root_phrase": "adil",
+			"related_phrase": "sepatutnya",
+			"rel_type": "s",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Sinonim",
+			"lex_class": "adv"
+		}, {
+			"rel_uid": "209334",
+			"root_phrase": "adil",
+			"related_phrase": "setara",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "209335",
+			"root_phrase": "adil",
+			"related_phrase": "setimbal",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "209336",
+			"root_phrase": "adil",
+			"related_phrase": "setimpal",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "203233",
+			"root_phrase": "adil",
+			"related_phrase": "sewajarnya",
+			"rel_type": "s",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Sinonim",
+			"lex_class": "adv"
+		}, {
+			"rel_uid": "209337",
+			"root_phrase": "adil",
+			"related_phrase": "berat sebelah",
+			"rel_type": "a",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Antonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "203232",
+			"root_phrase": "adil",
+			"related_phrase": "timpang",
+			"rel_type": "a",
+			"updated": null,
+			"updater": "TESAURUS",
+			"rel_type_name": "Antonim",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "141071",
+			"root_phrase": "adil",
+			"related_phrase": "berkeadilan",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "v"
+		}, {
+			"rel_uid": "141069",
+			"root_phrase": "adil",
+			"related_phrase": "keadilan",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "141070",
+			"root_phrase": "adil",
+			"related_phrase": "keadilan sosial",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "141057",
+			"root_phrase": "adil",
+			"related_phrase": "mengadili",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "v"
+		}, {
+			"rel_uid": "141061",
+			"root_phrase": "adil",
+			"related_phrase": "pengadil",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "141063",
+			"root_phrase": "adil",
+			"related_phrase": "pengadilan",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "141065",
+			"root_phrase": "adil",
+			"related_phrase": "pengadilan agama",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "141066",
+			"root_phrase": "adil",
+			"related_phrase": "pengadilan militer",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "141067",
+			"root_phrase": "adil",
+			"related_phrase": "pengadilan negeri",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "141068",
+			"root_phrase": "adil",
+			"related_phrase": "pengadilan tinggi",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "141060",
+			"root_phrase": "adil",
+			"related_phrase": "peradilan",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "n"
+		}, {
+			"rel_uid": "141058",
+			"root_phrase": "adil",
+			"related_phrase": "teradil",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "adj"
+		}, {
+			"rel_uid": "141059",
+			"root_phrase": "adil",
+			"related_phrase": "teradili",
+			"rel_type": "d",
+			"updated": null,
+			"updater": null,
+			"rel_type_name": "Turunan",
+			"lex_class": "v"
+		}, {
+			"rel_uid": "247004",
+			"root_phrase": "adil",
+			"related_phrase": "ratu adil",
+			"rel_type": "c",
+			"updated": "2010-03-11 19:44:45",
+			"updater": "rooter",
+			"rel_type_name": "Gabungan kata",
+			"lex_class": "n"
+		}]
+	}
+}

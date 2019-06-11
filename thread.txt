@@ -1,0 +1,703 @@
+{
+ "kind": "youtube#commentThreadListResponse",
+ "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zW7EvcmVkjcE7xEjC74Cpr22-Uc\"",
+ "nextPageToken": "QURTSl9pM1R0czk2d1NJV21mQXJsRlZtbUctVHRrQU9KNTVWd0VyeHlnSGoyMHlxQmZGdDRZdDNGRHNwNTZkRnliN3pVUTFYSWhpMjFjNmpMN09GZWFXLVltMDYxUExnS25EXzh2a1ZzemZhLUdPbWJmbHVhTmFxUHBrV1ZKbzdHaUk=",
+ "pageInfo": {
+  "totalResults": 20,
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/E2zgt9R0hfHs1mCr_w7umZyRlf4\"",
+   "id": "UgwQbNpR3CHTWt6OOXp4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7o77uHlX4xQQSuSc5U2o6KiWVO0\"",
+     "id": "UgwQbNpR3CHTWt6OOXp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Publius",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-c-LlaoBR9l4/AAAAAAAAAAI/AAAAAAAAAAA/QuZOnyTNm_c/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC32KUciv3tPi1GoZRv8M2qg",
+      "authorChannelId": {
+       "value": "UC32KUciv3tPi1GoZRv8M2qg"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "Getar getar gk?",
+      "textOriginal": "Getar getar gk?",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-19T20:36:30.000Z",
+      "updatedAt": "2019-04-19T20:36:30.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/v7KGG9CmeGTdInnUAFoIJ-CZ2uo\"",
+   "id": "Ugwt0CLi5cQ6zR1G5o14AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SldMSGPItUBMzKJtpFOr5hNJ_pg\"",
+     "id": "Ugwt0CLi5cQ6zR1G5o14AaABAg",
+     "snippet": {
+      "authorDisplayName": "Teichbukkanier -",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-8Gzc_WHbLgk/AAAAAAAAAAI/AAAAAAAAAAA/CEIT__hnerk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC2T1IRjNbV09ZMAYGG51dIw",
+      "authorChannelId": {
+       "value": "UC2T1IRjNbV09ZMAYGG51dIw"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "Ooh ada yang salah pesawat tuhhh",
+      "textOriginal": "Ooh ada yang salah pesawat tuhhh",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-19T20:33:51.000Z",
+      "updatedAt": "2019-04-19T20:33:51.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Wxy7AaBqXdzgPp_-uFXqaOnJaAI\"",
+   "id": "UgywTCAhfwtRZI5RdJR4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cvoc3FwNvO7a0k7fmc6g5VzI44g\"",
+     "id": "UgywTCAhfwtRZI5RdJR4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Humpy And Bex",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-d8Un3wTzf9E/AAAAAAAAAAI/AAAAAAAAAAA/p_KXh3JPi8g/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC_B2MEvvIgPt8YAZZ4RkAuA",
+      "authorChannelId": {
+       "value": "UC_B2MEvvIgPt8YAZZ4RkAuA"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "But money isnt real",
+      "textOriginal": "But money isnt real",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-18T21:22:28.000Z",
+      "updatedAt": "2019-04-18T21:22:28.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GHXh4PVf6MzsgAj2fzlLNWnyjFg\"",
+   "id": "UgxhI5a19SQc19p8t5p4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PdlcQpd051BCO6Z9hGaWEJGgdjw\"",
+     "id": "UgxhI5a19SQc19p8t5p4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Mekova",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-ySokuxtaCAw/AAAAAAAAAAI/AAAAAAAAAAA/HzC1Tmw_4w4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCX1P4W3PkXLUMQ97YkNjyhg",
+      "authorChannelId": {
+       "value": "UCX1P4W3PkXLUMQ97YkNjyhg"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "Kaga ada yg bener si anying",
+      "textOriginal": "Kaga ada yg bener si anying",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-17T18:02:09.000Z",
+      "updatedAt": "2019-04-17T18:02:09.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/x5ISiMs7gQNirOYzyqF-H1KYAZ0\"",
+   "id": "Ugw8eH-XR3nTxHHRiot4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/atatHHmoFbOdDiEYds4F6gt9sCA\"",
+     "id": "Ugw8eH-XR3nTxHHRiot4AaABAg",
+     "snippet": {
+      "authorDisplayName": "TheNoodlyAppendage",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-k41T1n-7xrk/AAAAAAAAAAI/AAAAAAAAAAA/hODgha-14DU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCuvEUBAfWlOqS3dhFwkGzng",
+      "authorChannelId": {
+       "value": "UCuvEUBAfWlOqS3dhFwkGzng"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "Rini soemarno emang dr dulu kang aset negara waktu jadi mentri bu mega aja dia jual indosat",
+      "textOriginal": "Rini soemarno emang dr dulu kang aset negara waktu jadi mentri bu mega aja dia jual indosat",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2019-04-16T04:14:53.000Z",
+      "updatedAt": "2019-04-16T04:14:53.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+   },
+   "replies": {
+    "comments": [
+     {
+      "kind": "youtube#comment",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VtCM6dT6iVh1uV_serFL4bVUk68\"",
+      "id": "Ugw8eH-XR3nTxHHRiot4AaABAg.8tlsSwKd7ZN8tpBNg68AQl",
+      "snippet": {
+       "authorDisplayName": "Furkan Karaman",
+       "authorProfileImageUrl": "https://yt3.ggpht.com/-jnqt_p6xDqs/AAAAAAAAAAI/AAAAAAAAAAA/u_5vhyu44Sg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+       "authorChannelUrl": "http://www.youtube.com/channel/UCZoWVrxMVmRaMiSyhG2CJ5Q",
+       "authorChannelId": {
+        "value": "UCZoWVrxMVmRaMiSyhG2CJ5Q"
+       },
+       "videoId": "_VB39Jo8mAQ",
+       "textDisplay": "asdaasdasdasdsdas",
+       "textOriginal": "asdaasdasdasdsdas",
+       "parentId": "Ugw8eH-XR3nTxHHRiot4AaABAg",
+       "canRate": true,
+       "viewerRating": "none",
+       "likeCount": 0,
+       "publishedAt": "2019-04-17T11:06:39.000Z",
+       "updatedAt": "2019-04-17T11:06:39.000Z"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/irV-ZbPkG47aJ6hC4R1Jp6canX4\"",
+   "id": "UgycZsO49708qr3XwVl4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/i9kJoZmazlufndmCJTwOR0G2JTc\"",
+     "id": "UgycZsO49708qr3XwVl4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Derek Magruther",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-F8GFZvjoBRA/AAAAAAAAAAI/AAAAAAAAAAA/j9ueBgD6sgU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC4PUSZcsck2M5akROa5lA6Q",
+      "authorChannelId": {
+       "value": "UC4PUSZcsck2M5akROa5lA6Q"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "You are one of the many people who are unwittingly what&#39;s wrong with the western world.  Please stop teaching your children how to manage there addiction teache them to overcome it.",
+      "textOriginal": "You are one of the many people who are unwittingly what's wrong with the western world.  Please stop teaching your children how to manage there addiction teache them to overcome it.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2019-04-16T00:55:06.000Z",
+      "updatedAt": "2019-04-16T00:55:06.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6hzPkCDBormRLJGvbauhvKuPrvE\"",
+   "id": "Ugx8G6Yes68D0J1_pRx4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/hAriyYDSVCzEkEFTpZq-vM3ZQU0\"",
+     "id": "Ugx8G6Yes68D0J1_pRx4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Joshua Beckett",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-9Zz4OlZTCWA/AAAAAAAAAAI/AAAAAAAAAAA/J45pibpbVs8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCN9w4AV333IffxvW7gaevHw",
+      "authorChannelId": {
+       "value": "UCN9w4AV333IffxvW7gaevHw"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "Feels bad his kid is an okc fan",
+      "textOriginal": "Feels bad his kid is an okc fan",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-15T20:59:58.000Z",
+      "updatedAt": "2019-04-15T20:59:58.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/M64P461seqHZURoYSxvC_dqEPws\"",
+   "id": "Ugz6ebnNfuKvxsf50kN4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lNbDSS8zyVupkZKwLrSUYNYW0J4\"",
+     "id": "Ugz6ebnNfuKvxsf50kN4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Njabulo Dlamini",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-xUCrUkVeddI/AAAAAAAAAAI/AAAAAAAAAAA/bHns0DFF1UY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCqTQnCJjmkoYmm_Lb5sYTGw",
+      "authorChannelId": {
+       "value": "UCqTQnCJjmkoYmm_Lb5sYTGw"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "parenting101",
+      "textOriginal": "parenting101",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-14T09:00:29.000Z",
+      "updatedAt": "2019-04-14T09:00:29.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2trrpaWXIAZwi878ShkImerkMKo\"",
+   "id": "Ugx2WkIIRTRCnKUa05V4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rTNyXUA3SkgD1_KGLmkHyMWUnAE\"",
+     "id": "Ugx2WkIIRTRCnKUa05V4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Storm Sabroe",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-m_08iweC2wM/AAAAAAAAAAI/AAAAAAAAAAA/ePyik6bSYtA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC0qn8ta30_BpFzL3ulxd57A",
+      "authorChannelId": {
+       "value": "UC0qn8ta30_BpFzL3ulxd57A"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "Great speech",
+      "textOriginal": "Great speech",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-13T12:51:59.000Z",
+      "updatedAt": "2019-04-13T12:51:59.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fXtUgNcM_dluE8ijwl5ZcBq5v1M\"",
+   "id": "UgwxTKH-PQU1Hy1c5Xh4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MhUIY9W7Pw6jqxCEGI1Te5IjTlY\"",
+     "id": "UgwxTKH-PQU1Hy1c5Xh4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Harmson",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-OKchEJZzkzM/AAAAAAAAAAI/AAAAAAAAAAA/fh4_3b1rlgA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC0-XZ9s7aoWty6gRlB73mEA",
+      "authorChannelId": {
+       "value": "UC0-XZ9s7aoWty6gRlB73mEA"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "Money isnt real it is a fictive reality",
+      "textOriginal": "Money isnt real it is a fictive reality",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-12T15:10:20.000Z",
+      "updatedAt": "2019-04-12T15:10:20.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FPsRkiLL4urqBss7vLRUz9G4kSM\"",
+   "id": "Ugw3-HGZKvB55kz5m214AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Y4YBNe8C8yyTrs33g2LriGoA57g\"",
+     "id": "Ugw3-HGZKvB55kz5m214AaABAg",
+     "snippet": {
+      "authorDisplayName": "Ra-ki Papa",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-upo6kYjyDVA/AAAAAAAAAAI/AAAAAAAAAAA/GSw34nv9Meo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UClWywh5xTlSo8LouJbnl-tg",
+      "authorChannelId": {
+       "value": "UClWywh5xTlSo8LouJbnl-tg"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "This is why I snipped my Visa card into and deleted cash apps on my phone",
+      "textOriginal": "This is why I snipped my Visa card into and deleted cash apps on my phone",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-12T02:37:54.000Z",
+      "updatedAt": "2019-04-12T02:37:54.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QXsrZ4ml_iGidtEL1OKaZEMOagc\"",
+   "id": "UgxjrRWXb4GqOQ6CBp54AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_TGU-s74su3gsbCtG7nBTN4bWz4\"",
+     "id": "UgxjrRWXb4GqOQ6CBp54AaABAg",
+     "snippet": {
+      "authorDisplayName": "Kilgore Trout",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-d6aEFjdNGpo/AAAAAAAAAAI/AAAAAAAAAAA/hxopRBLONMg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCaVcRXbYmqaFTNng1_zT6Pw",
+      "authorChannelId": {
+       "value": "UCaVcRXbYmqaFTNng1_zT6Pw"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "I see... so the reason young people are broke is credit cards and not crushing college debt, lack of job opportunities and the highest wealth inequality in history.\u003cbr /\u003eThanks, mr. economist!",
+      "textOriginal": "I see... so the reason young people are broke is credit cards and not crushing college debt, lack of job opportunities and the highest wealth inequality in history.\nThanks, mr. economist!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2019-04-11T03:30:39.000Z",
+      "updatedAt": "2019-04-11T03:30:39.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+   },
+   "replies": {
+    "comments": [
+     {
+      "kind": "youtube#comment",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/__oXfbCdJP-9zVnO7AhEsXbDGa0\"",
+      "id": "UgxjrRWXb4GqOQ6CBp54AaABAg.8tZvQ_-TL4O8tjJCY9kBvS",
+      "snippet": {
+       "authorDisplayName": "CLove511",
+       "authorProfileImageUrl": "https://yt3.ggpht.com/-KnR0YhF8mts/AAAAAAAAAAI/AAAAAAAAAAA/RBSM6c3w1JU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+       "authorChannelUrl": "http://www.youtube.com/channel/UC_AE9tYbAF0UaQkw-IrRNJg",
+       "authorChannelId": {
+        "value": "UC_AE9tYbAF0UaQkw-IrRNJg"
+       },
+       "videoId": "_VB39Jo8mAQ",
+       "textDisplay": "I think his talk addresses this. Students just sign away their lives for a useless degree at a &quot;prestigious&quot; university without considering the consequences because the money isn&#39;t real...but has real consequences. So they get a degree in humanities or a liberal arts field, which has no demand in the real world for paid capital.\u003cbr /\u003e\u003cbr /\u003eThen, because they got a useless degree, they aren&#39;t employable for any job which requires skills, making it seem like there&#39;s a lack of opportunity -- where I live, they literally cannot hire computer-related people fast enough to meet the need. I don&#39;t remember the last time I saw a Critical Race Theory factory open up.\u003cbr /\u003e\u003cbr /\u003eAs for wealth inequality, that&#39;s where I think you fail to understand what the poorest have. Getting mad because someone has a private jet doesn&#39;t change the fact that almost every single person in America has access to food, water, good hygiene, and a ton of other things that would have meant insane wealth 100 years ago, along with a huge spike in average life expectancy...but because we put it in terms of &quot;so-and-so has more than I do&quot; doesn&#39;t mean that life isn&#39;t incredible, and people choose their own unhappiness.",
+       "textOriginal": "I think his talk addresses this. Students just sign away their lives for a useless degree at a \"prestigious\" university without considering the consequences because the money isn't real...but has real consequences. So they get a degree in humanities or a liberal arts field, which has no demand in the real world for paid capital.\n\nThen, because they got a useless degree, they aren't employable for any job which requires skills, making it seem like there's a lack of opportunity -- where I live, they literally cannot hire computer-related people fast enough to meet the need. I don't remember the last time I saw a Critical Race Theory factory open up.\n\nAs for wealth inequality, that's where I think you fail to understand what the poorest have. Getting mad because someone has a private jet doesn't change the fact that almost every single person in America has access to food, water, good hygiene, and a ton of other things that would have meant insane wealth 100 years ago, along with a huge spike in average life expectancy...but because we put it in terms of \"so-and-so has more than I do\" doesn't mean that life isn't incredible, and people choose their own unhappiness.",
+       "parentId": "UgxjrRWXb4GqOQ6CBp54AaABAg",
+       "canRate": true,
+       "viewerRating": "none",
+       "likeCount": 0,
+       "publishedAt": "2019-04-15T04:19:36.000Z",
+       "updatedAt": "2019-04-15T04:19:36.000Z"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8oSwb7H6YRJYbp-Wl4ohzahWDaw\"",
+   "id": "Ugz9VJYt0p7tvEFKFGh4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Uda32KmvRtA4ZVllNWPZrICQpr4\"",
+     "id": "Ugz9VJYt0p7tvEFKFGh4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Ben Lux",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-Y-mCJqz_InM/AAAAAAAAAAI/AAAAAAAAAAA/aRS7LWnghIg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCH-vop5OvjA3UCZpq0HZK3Q",
+      "authorChannelId": {
+       "value": "UCH-vop5OvjA3UCZpq0HZK3Q"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "Oh, they love monopoly! Better throw 10k cash on the table",
+      "textOriginal": "Oh, they love monopoly! Better throw 10k cash on the table",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-10T06:44:59.000Z",
+      "updatedAt": "2019-04-10T06:44:59.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BbM8_NBYckhEeULNVpRddYwG264\"",
+   "id": "UgwHxbM1uzRCDrs6pgt4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gUelhVral9GTZZxh-e2aIi9VQt4\"",
+     "id": "UgwHxbM1uzRCDrs6pgt4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Shadow in the Night",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-2WkWnp2CktE/AAAAAAAAAAI/AAAAAAAAAAA/9yO9O6IT-Zw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC9n4JpsDRn_Sv45GRDWS0zA",
+      "authorChannelId": {
+       "value": "UC9n4JpsDRn_Sv45GRDWS0zA"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "Bro nothing hurts more than breaking a twenty on like a $5 thing",
+      "textOriginal": "Bro nothing hurts more than breaking a twenty on like a $5 thing",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-07T21:27:07.000Z",
+      "updatedAt": "2019-04-07T21:27:07.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/52AXQdA-V2ApEj0mmMOp_vgNLDc\"",
+   "id": "UgxWs5gVT6unQj_LDEp4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7V5KIr-CWbWE6_4OuyQSIxrt5ck\"",
+     "id": "UgxWs5gVT6unQj_LDEp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Argiod Silvertongue",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-rVkIUM9V-ZY/AAAAAAAAAAI/AAAAAAAAAAA/PLWJAJfOvyw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCsnGw-EMHZlC7hKQ5AOzUgg",
+      "authorChannelId": {
+       "value": "UCsnGw-EMHZlC7hKQ5AOzUgg"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "I wish my parents had taught me how to handle money in such a manner.\u003cbr /\u003eI never had to deal with cash and taking care of my own expenses until I was in my mid 20&#39;s and got my first steady job and my own apartment.\u003cbr /\u003eI am now starting my 8th decade (72 at this time); and though I can manage to make the best of each dollar, I still live at a sub-poverty level. But I would have done better if I had been taught while my brain was in its most receptive state, in my youth.",
+      "textOriginal": "I wish my parents had taught me how to handle money in such a manner.\nI never had to deal with cash and taking care of my own expenses until I was in my mid 20's and got my first steady job and my own apartment.\nI am now starting my 8th decade (72 at this time); and though I can manage to make the best of each dollar, I still live at a sub-poverty level. But I would have done better if I had been taught while my brain was in its most receptive state, in my youth.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 2,
+      "publishedAt": "2019-04-07T19:03:23.000Z",
+      "updatedAt": "2019-04-07T19:03:23.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/U6_PxeMCPc8qbeuQyMC-oD_EH14\"",
+   "id": "UgyawuStLpVxSERPW8N4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Mqrw0RBhP4-9O1KqfHOuCbG04oA\"",
+     "id": "UgyawuStLpVxSERPW8N4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Argiod Silvertongue",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-rVkIUM9V-ZY/AAAAAAAAAAI/AAAAAAAAAAA/PLWJAJfOvyw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCsnGw-EMHZlC7hKQ5AOzUgg",
+      "authorChannelId": {
+       "value": "UCsnGw-EMHZlC7hKQ5AOzUgg"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "Once more this shows that modern slaves aren&#39;t in chains; they&#39;re in debt!",
+      "textOriginal": "Once more this shows that modern slaves aren't in chains; they're in debt!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-07T18:56:50.000Z",
+      "updatedAt": "2019-04-07T18:56:50.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CgZSyqkq4GAA2umBqkfG0tou_18\"",
+   "id": "UgxaOjUBAw2hYRMb10d4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PBoL2Ym_UW2-7mOqrGvslZcu7PA\"",
+     "id": "UgxaOjUBAw2hYRMb10d4AaABAg",
+     "snippet": {
+      "authorDisplayName": "ClareBearPhD",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-MzX-Ov31S1U/AAAAAAAAAAI/AAAAAAAAAAA/z6yH_xJAmbE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC0vByruWQGuP9gxBIYaNj9w",
+      "authorChannelId": {
+       "value": "UC0vByruWQGuP9gxBIYaNj9w"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "If someone in front of you in line pulls out a checkbook, you have everyone&#39;s permission to murder them.",
+      "textOriginal": "If someone in front of you in line pulls out a checkbook, you have everyone's permission to murder them.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-07T14:05:23.000Z",
+      "updatedAt": "2019-04-07T14:05:23.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/o7biR6aN4xnBksjDiZIiArVrt5k\"",
+   "id": "Ugwxu3NAH2ve_0hqjAp4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JkFBYDQ_jDszVtJgT4fcJXaUDqM\"",
+     "id": "Ugwxu3NAH2ve_0hqjAp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Tupa Kek",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-fOvDw7cTSmI/AAAAAAAAAAI/AAAAAAAAAAA/sCNZ3X5-F5U/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCNKQTNfy2_tuclfHzooIIkw",
+      "authorChannelId": {
+       "value": "UCNKQTNfy2_tuclfHzooIIkw"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "(((They))) fear when people discard some paper and help eachother",
+      "textOriginal": "(((They))) fear when people discard some paper and help eachother",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-07T10:25:03.000Z",
+      "updatedAt": "2019-04-07T10:25:03.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EO5koAQv-zMOvopfJT77r_08QM0\"",
+   "id": "UgxTOBvP5MhfZuNSy4p4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wRTLkLSyQ_bzpw7ZjtuMFCqThQA\"",
+     "id": "UgxTOBvP5MhfZuNSy4p4AaABAg",
+     "snippet": {
+      "authorDisplayName": "WeepingAngels91",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-YmqaEZWMHzM/AAAAAAAAAAI/AAAAAAAAAAA/2NQhUAfFozw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC_fz2q3-KrGs7hwcSVin-OQ",
+      "authorChannelId": {
+       "value": "UC_fz2q3-KrGs7hwcSVin-OQ"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "“So I took all my kids that were acting decently, and altruistically towards each other and introduced cold hard cash. Now only one of them wins and is considered better than the other two! And there was no human kindness at all! I think we made real progress here today! Someone crack the champagne!”",
+      "textOriginal": "“So I took all my kids that were acting decently, and altruistically towards each other and introduced cold hard cash. Now only one of them wins and is considered better than the other two! And there was no human kindness at all! I think we made real progress here today! Someone crack the champagne!”",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-01T15:57:00.000Z",
+      "updatedAt": "2019-04-01T15:57:00.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pQVxlcnNPqVHBDET1pUbQB2Ci3w\"",
+   "id": "UgyAn_Bnf2qBJlVoNhJ4AaABAg",
+   "snippet": {
+    "videoId": "_VB39Jo8mAQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/f49LWpsh5HkPJ7EBwRj5Vr-T-Fk\"",
+     "id": "UgyAn_Bnf2qBJlVoNhJ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Willi Kampmann",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-ZAryb80Rulc/AAAAAAAAAAI/AAAAAAAAAAA/pko5M9wAuLo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCyFddK0BXOrE82SMEPW3yOA",
+      "authorChannelId": {
+       "value": "UCyFddK0BXOrE82SMEPW3yOA"
+      },
+      "videoId": "_VB39Jo8mAQ",
+      "textDisplay": "When he started his talk I really thought his point was that with virtual money, his kids acted more socially and tried to help each other avoid bankruptcy or high interest rates rather than only thinking about their own monetary gain. Because one problem with the current system really is that if you have money problems, interest rates are pulling you down that much faster!\u003cbr /\u003e\u003cbr /\u003eHis eventual conclusion is also interesting. The virtualization of money is not going to stop or reverse and to a large degree I actually think that’s a good thing. But keeping the perceived value of money intact in a digital environment is an interesting design challenge!",
+      "textOriginal": "When he started his talk I really thought his point was that with virtual money, his kids acted more socially and tried to help each other avoid bankruptcy or high interest rates rather than only thinking about their own monetary gain. Because one problem with the current system really is that if you have money problems, interest rates are pulling you down that much faster!\n\nHis eventual conclusion is also interesting. The virtualization of money is not going to stop or reverse and to a large degree I actually think that’s a good thing. But keeping the perceived value of money intact in a digital environment is an interesting design challenge!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-04-01T13:38:44.000Z",
+      "updatedAt": "2019-04-01T13:38:44.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  }
+ ]
+}
