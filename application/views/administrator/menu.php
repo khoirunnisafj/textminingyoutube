@@ -60,12 +60,10 @@
             <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
               <div class="menu_section">
               
-                <ul class="nav side-menu">
-                 <li><a href="<?php echo base_url() ?>administrator/video/daftar"><i class="fa fa-home"></i> Video</a></li></ul>
+                
                  <ul class="nav side-menu">
-                  <li><a href="<?php echo base_url() ?>administrator/thread/daftar"><i class="fa fa-home"></i> Komentar </a></li></ul>
-                  <ul class="nav side-menu">
-                  <li><a href="<?php echo base_url() ?>administrator/rating/daftar"><i class="fa fa-home"></i> Rating </a></li></ul>
+                  <li><a href="<?php echo base_url() ?>administrator/thread/daftar"><i class="fa fa-home"></i> Rating </a></li></ul>
+                 
                   <ul class="nav side-menu">
                   <li><a href="<?php echo base_url() ?>administrator/ranking/daftar"><i class="fa fa-home"></i> Rangking </a></li></ul>
                       

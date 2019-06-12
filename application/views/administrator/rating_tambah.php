@@ -2,7 +2,7 @@
 <?php include('menu.php'); ?>
 
 <div id="page-wrapper">
-	<h3>Formulir Rating</h3>
+	<h3>Perhitungan Rating</h3>
 	<p>&nbsp;</p>
 
 	<?php include('pesan.php'); ?>
@@ -16,13 +16,13 @@
 		}
 		?>
 
-		<div class="row form-group">
+		<!-- <div class="row form-group">
 			<label class="col-sm-10 control-label">&nbsp;</label>
 			<div class="col-sm-2">
-				<!-- <a href="<?php echo base_url() . 'administrator/rating/'; ?>" class="btn btn-secondary col-sm-12">Kembali</a> -->
+				<!-- <a href="<?php echo base_url() . 'administrator/rating/'; ?>" class="btn btn-secondary col-sm-12">Kembali</a> 
 				<a href="javascript:window.history.back();" class="btn btn-secondary col-sm-12">Kembali</a>
 			</div>
-		</div>
+		</div> -->
 
 		<div class="row form-group">
 			<label for="namamaskapai" class="col-sm-2 control-label">Nama Maskapai</label>
@@ -34,7 +34,7 @@
 		<div class="row form-group">
 			<label class="col-sm-2 control-label">&nbsp;</label>
 			<div class="col-sm-2">
-				<input type="button" class="btn btn-primary col-sm-12" id="cari" name="cari" value="Pindai" onclick="preparedatabase();" />
+				<input type="button" class="btn btn-primary col-sm-12" id="cari" name="cari" value="Next" onclick="preparedatabase();" />
 			</div>
 		</div>
 

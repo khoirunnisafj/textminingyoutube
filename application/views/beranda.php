@@ -73,47 +73,7 @@
  -->
 		<!-- One -->
 		
-			<section id="one" class="wrapper style2">
-				<div class="inner">
-					<div class="grid-style">
-					<div>
-							<div class="box">
-									
-								<div class="content">
-									<header class="align-center">
-										
-										<h2>Ambil Data Video</h2>
-									</header>
-									<p> pilih ambil data video untuk mendapatkan video terbaru tentang maskapai perenbangan pada paltform youtube</p>
-									<footer class="align-center">
-										<a href="<?php echo base_url() ?>administrator/video/daftar" class="button alt">Next</a>
-									</footer>
-								</div>
-							</div>
-						</div>
-
-
-						<div>
-							<div class="box">
-							
-								<div class="content">
-									<header class="align-center">
-										
-										<h2>Ambil Data Komentar</h2>
-									</header>
-									<p>  pilih ambil data komentar untuk mendapatkan komentar terbaru tentang maskapai perenbangan pada paltform youtube</p>
-									<footer class="align-center">
-										<a href="<?php echo base_url() ?>administrator/thread/daftar" class="button alt">Next</a>
-									</footer>
-								</div>
-							</div>
-						</div>
-
-						</div>
-
-					</div>
-				</div>
-			</section>
+			
 
 		<section id="two" class="wrapper style2">
 				<div class="inner">
@@ -126,9 +86,9 @@
 										
 										<h2>Rating Maskapai Penerbangan</h2>
 									</header>
-									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
+									<p> Pemberian rating pada maskapai penerbangan yang beroperasi di Indonesia untuk membantu masyarakat dalam memilih perusahaan maskapai penerbangan yang diinginkan</p>
 									<footer class="align-center">
-										<a href="<?php echo base_url() ?>administrator/rating/daftar" class="button alt">Next</a>
+										<a href="<?php echo base_url() ?>administrator/video/daftar" class="button alt">Next</a>
 									</footer>
 								</div>
 							</div>

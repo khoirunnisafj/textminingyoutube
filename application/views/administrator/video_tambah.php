@@ -2,7 +2,7 @@
 <?php include('menu.php'); ?>
 
 <div id="page-wrapper">
-	<h3>Formulir Video</h3>
+	<h3>Crawler Data Video</h3>
 	<p>&nbsp;</p>
 
 	<?php include('pesan.php'); ?>
@@ -34,7 +34,7 @@
 		<div class="row form-group">
 			<label class="col-sm-2 control-label">&nbsp;</label>
 			<div class="col-sm-2">
-				<input type="button" class="btn btn-primary col-sm-12" id="cari" name="cari" value="Pindai" onclick="carivideo();" />
+				<input type="button" class="btn btn-primary col-sm-12" id="cari" name="cari" value="Next" onclick="carivideo();" />
 			</div>
 		</div>
 

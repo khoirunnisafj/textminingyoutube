@@ -10,7 +10,7 @@
 		<div class="row form-group">
 			<label class="col-sm-10 control-label">&nbsp;</label>
 			<div class="col-sm-2">
-				<a href="<?php echo base_url() . 'administrator/rating/'; ?>" class="btn btn-secondary col-sm-12">Kembali</a>
+				<a href="<?php echo site_url("welcome") ?>" class="btn btn-secondary col-sm-12">Kembali</a>
 			</div>
 		</div>
 
