@@ -91,9 +91,11 @@ class Thread extends CI_Controller {
 
 		if ($id != '') {
 			$viewdata['record'] = $this->maskapai_model->lihat($id)->row();
+			$viewdata['dataThread'] = $this->thread_model->lihatByMaskapai($id);
 			$simpan = $this->input->post('simpan');
 			if ($simpan) {
 				$recorddata['namamaskapai'] = $this->input->post('namamaskapai');
+				
 				$this->maskapai_model->ubah($id, $recorddata);
 				$this->session->set_flashdata('pesan', 'Data berhasil disimpan');
 				$url = base_url() . 'administrator/thread/daftar';
@@ -375,6 +377,7 @@ class Thread extends CI_Controller {
 			$response['maxthread'] = $setting['maxthread'];
 			$response['threadcount'] = $this->thread_model->hitungpermaskapai($idmaskapai);
 			$response['nextpagetoken'] = $threadtoken;
+			$response['dataThread'] = $threaddatas;
 			echo json_encode($response, TRUE);
 		} else {
 			$response = array();
@@ -383,6 +386,7 @@ class Thread extends CI_Controller {
 			$response['maxthread'] = $setting['maxthread'];
 			$response['threadcount'] = $this->thread_model->hitungpermaskapai($idmaskapai);
 			$response['message'] = 'Sudah tidak ada video lagi untuk dipindai';
+
 			echo json_encode($response, TRUE);
 		}
 	}

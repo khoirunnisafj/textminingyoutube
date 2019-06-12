@@ -25,6 +25,15 @@ Class Video_model extends CI_Model {
 		return $this->db->get();
 	}
 
+	function lihatByMaskapai($id) {
+		$this->db->select('*');
+		$this->db->from('video');
+		$this->db->where('idmaskapai', $id);
+		$this->db->order_by('idvideo');
+
+		return $this->db->get();
+	}
+
 	function lihat($id) {
 		$this->db->select('*');
 		$this->db->from('video');

@@ -88,6 +88,8 @@ class Video extends CI_Controller {
 
 		if ($id != '') {
 			$viewdata['record'] = $this->maskapai_model->lihat($id)->row();
+			$viewdata['dataVideo'] = $this->video_model->lihatByMaskapai($id);
+
 			$simpan = $this->input->post('simpan');
 			if ($simpan) {
 				$recorddata['namamaskapai'] = $this->input->post('namamaskapai');
@@ -245,6 +247,7 @@ class Video extends CI_Controller {
 		$response['maxvideo'] = $setting['maxvideo'];
 		$response['videocount'] = $this->video_model->hitungpermaskapai($idmaskapai);
 		$response['nextpagetoken'] = $videotoken;
+		$response['dataVideo'] = $videodatas;
 
 		echo json_encode($response, TRUE);
 	}

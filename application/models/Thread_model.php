@@ -13,6 +13,15 @@ Class Thread_model extends CI_Model {
 		return $this->db->count_all_results();
 	}
 
+	function lihatByMaskapai($id) {
+		$this->db->select('*');
+		$this->db->from('thread');
+		$this->db->where('idmaskapai', $id);
+		$this->db->order_by('idthread');
+
+		return $this->db->get();
+	}
+
 	function daftar($id, $katakunci, $baris, $nomor) {
 		$this->db->select('*');
 		$this->db->from('thread');

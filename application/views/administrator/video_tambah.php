@@ -36,6 +36,9 @@
 			<div class="col-sm-2">
 				<input type="button" class="btn btn-primary col-sm-12" id="cari" name="cari" value="Next" onclick="carivideo();" />
 			</div>
+			<div class="col-sm-2">
+				<a href="<?php echo base_url() . 'administrator/thread/ubah/' . $record->idmaskapai; ?>" class="btn btn-primary col-sm-12">Next Thread </a>
+			</div>
 		</div>
 
 		<div class="row form-group">
@@ -55,14 +58,39 @@
 				<input type="text" class="form-control" id="videocount" name="videocount" value="" readonly />
 			</div>
 		</div>
-
-
 	</form>
+	<br>
+	<div>
+		<table border="0" class="table table-striped table-bordered">
+			<tr>
+				<th class="col-sm-1">No.</th>
+				<th class="col-sm-2">Video ID</th>
+				<th class="col-sm-7">Judul</th>
+			</tr>
+			<tbody id="dataVideo">
+			<?php $nomor = 1; ?>
+			<?php if($dataVideo->num_rows() >= 1): ?>
+				<?php foreach ($dataVideo->result() as $row):?>
+						<tr>
+							<td><?php echo $nomor; ?></td>
+							<td><?php echo $row->videoid; ?></td>
+							<td><?php echo $row->judul; ?></td>
+						</tr>
+				<?php 
+				$nomor++;
+				endforeach; ?>
+			<?php endif; ?>
+
+			</tbody>
+		</table>
+	</div>
+
 </div>
 
 <script type="text/javascript">
 
 	var urlstring = '';
+	var resultNumbering = '<?php echo $nomor; ?>';
 	function carivideo()
 	{
 		$("#cari").attr("disabled", true);
@@ -94,17 +122,20 @@
 						{
 							$("#statusajax").val("Berhasil: Menunggu video berikutnya");
 							setTimeout(carivideo, 1000);
+							appendVideo(response.dataVideo[0]);
 						} else
 						{
 							$("#cari").attr("disabled", false);
 							$("#statusajax").val("Selesai: Daftar video habis");
-							window.location.href = "<?php echo base_url() . 'administrator/thread/ubah/' . $record->idmaskapai; ?>";
+							appendVideo(response.dataVideo[0]);
+							// window.location.href = "<?php echo base_url() . 'administrator/thread/ubah/' . $record->idmaskapai; ?>";
 						}
 					} else
 					{
 						$("#cari").attr("disabled", false);
 						$("#statusajax").val("Selesai: Banyak max video tercapai");
-						window.location.href = "<?php echo base_url() . 'administrator/thread/ubah/' . $record->idmaskapai; ?>";
+						// window.location.href = "<?php echo base_url() . 'administrator/thread/ubah/' . $record->idmaskapai; ?>";
+						appendVideo(response.dataVideo[0]);
 					}
 				} else {
 					$("#cari").attr("disabled", false);
@@ -114,6 +145,18 @@
 		});
 
 
+	}
+
+	function appendVideo(data)
+	{
+		var html = '<tr>';
+				html += '<td>' + resultNumbering + '</td>';
+				html += '<td>'+data['videoid']+'</td>';
+				html += '<td>'+data['judul']+' </td>';
+			html += '</tr>';
+		$('#dataVideo').append(html);
+
+		resultNumbering++;
 	}
 
 </script>
