@@ -256,11 +256,25 @@ class Thread extends CI_Controller {
 					$threaddata['isi'] = $item['snippet']['topLevelComment']['snippet']['textOriginal'];
 
 					// tokenizing
-
 					$isibersih = preg_replace("/[^a-z]/", " ", $threaddata['isi']);
 					$isibersih = trim(preg_replace('!\s+!', ' ', strip_tags($isibersih)));
 
 					$katas = explode(' ', $isibersih);
+					$negatifkata = ['kurang', 'tidak'];
+					$indexNegatif = null;
+					foreach ($katas as $kataKey => $kataVal) {
+						if ( in_array($kataVal, $negatifkata ) ) {
+							$indexNegatif = $kataKey;
+							if ( in_array($katas[$kataKey + 1], $subkategori) ) {
+								$antonim = $this->subkategori_model->cariKata($katas[$kataKey + 1])->row();
+								if (isset($antonim->idsubkategori)) {
+									$antonimsub = explode(',', $antonim->antonimsubkategori);
+									$katas[$kataKey] = $antonimsub[0];
+									unset($katas[$kataKey+1]);
+								}
+							}
+						}
+					}
 
 					$token = array();
 					foreach ($katas as $kata) {

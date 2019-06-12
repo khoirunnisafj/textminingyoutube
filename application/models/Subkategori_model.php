@@ -6,6 +6,13 @@ Class Subkategori_model extends CI_Model {
 		parent::__construct();
 	}
 
+	function cariKata($kata) {
+		$this->db->select('*');
+		$this->db->from('subkategori');
+		$this->db->where('namasubkategori', $kata);
+		return $this->db->get();
+	}
+
 	function hitung($katakunci, $saringan) {
 		$this->db->select('count(*)');
 		$this->db->from('subkategori');
